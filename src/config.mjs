@@ -1,11 +1,11 @@
 export default {
-    title: "Homepage",
-    titleSuffix: "#GuidingQuestions",
+    title: "#GuidingQuestions",
+    titleSuffix: "",
     description: "Sustainable Productivity for early career academics",
-    defaultOgImage: "./defaultog.jpg",
+    defaultOgImage: "./Nathan.jpg",
     latestPosts: 3,
     postsPerPage: 3,
-    url: "https://pacamara-astro-6y7xr.kinsta.page",
+    url: "https://guidingquestions.com",
     social: {
         'dribbble': false,
         'facebook': false,
